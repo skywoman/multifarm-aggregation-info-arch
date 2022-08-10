@@ -21,3 +21,8 @@ We'll update this space as more events are confirmed, but the first few are list
 > URL: `https://https://8x8.vc/gracchus/multi-farm-info-architecture`  
 > U.S. Dial-in: [(209) 844-4600](tel:+1-209-844-4600,246916544#)  
 > Dial-in PIN: `246 916 544`  
+
+## Interview Materials, Documentation and Licensing
+Look for more [interview materials](interviews/) and other documentation to appear here shortly in the various subdirectories.
+
+Currently this repository is in the public domain under the [Creative Commons Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). As material is added, another similar license may be adopted, but we intend to keep them free to use, modify and share.
