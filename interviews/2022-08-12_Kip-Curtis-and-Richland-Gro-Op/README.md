@@ -15,9 +15,9 @@ __Interviewees__
 
 ## Agenda
 - Introductions (5 min)
-- Q&A: Origins and purpose of the Microfarm Project (15 min)
-- Q&A: Managing production data at Richland Gro-Op (15 min)
-- Q&A: Managing inventory, orders and sales data at Richland Gro-Op (15 min)
+- Origins and purpose of the Microfarm Project (10 min)
+- Managing production data at Richland Gro-Op (15-20 min)
+- Managing inventory, orders and sales data at Richland Gro-Op (15-20 min)
 - Conclusions (5 min)
 
 ## Notes
