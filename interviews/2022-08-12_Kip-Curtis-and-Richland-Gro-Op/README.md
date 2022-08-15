@@ -20,9 +20,9 @@ __Interviewees__
 - Managing inventory, orders and sales data at Richland Gro-Op (15-20 min)
 - Conclusions (5 min)
 
-## Notes
-- 
-- ...
+## Action Items
+- Explore ways to make the auditing process easier and not always require a site visit from Jess to confirm growers are on-track to meet their target volumes in time for orders.
+- Possibly schedule a follow-up interview with Jess to discuss the auditing process further. Specifically, we should find out what margins for error does she factor into her crop plans, and what mitigating actions is she able to take when farmers are not on course to meet their targets volumes.
 
 ## Materials
 - 
