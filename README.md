@@ -1,4 +1,4 @@
-# Multi-farm Information Architecture
+# Multifarm Aggregation & Information Architecture (MAIA)
 This project will center around a series of technical interviews with people who run aggregation services, either as a multi-farm CSA or a more centralized food hub, where product from multiple farms is pooled and sold through one or more distribution channels. The primary outcome will be a collection of interview materials, documents and case studies, made freely available under Creative Commons or a similar license, which will map each interviewee's user journey and the information architecture that underlies their operation.
 
 Nate Chang, a User Experience Designer and Data Strategist, has graciously volunteered to guide the technical interviews, but we're seeking participation from other designers, engineers and anyone else from the Skywoman community with an active interest. Be aware, however, that these sessions may get rather technical in nature, with an aim towards forming a rigorous model of the aggregation process, so it may be a bit of a snoozer if that's not your jam.
