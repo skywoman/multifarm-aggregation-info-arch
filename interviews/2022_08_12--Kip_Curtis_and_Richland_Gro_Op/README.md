@@ -32,3 +32,4 @@ __Interviewees__
 - [Video Recording](https://www.youtube.com/watch?v=HhM6C0fmjfo) (Link to YouTube)
 - [Video Transcript](transcript.html) (Raw HTML)
 - [Chat History](chat.html) (Raw HTML)
+- [Diagram by Kip Curtis: "The Crop-Plan Aggregation System"](crop_plan_aggregation_system.png) (PNG)
