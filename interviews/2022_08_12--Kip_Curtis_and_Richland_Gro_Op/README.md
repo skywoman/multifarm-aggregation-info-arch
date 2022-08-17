@@ -10,6 +10,7 @@ __Facilitators__
 
 __Interviewees__
 - Kip Curtis, Ohio State University (Marion), PI for the Microfarm Project
+- Matthew Stanfield, Richland Gro-Op, President of the Board
 - Walt Bonham, Richland Gro-Op, Operations
 - Jess Hudson, Richland Gro-Op, Sales
 
