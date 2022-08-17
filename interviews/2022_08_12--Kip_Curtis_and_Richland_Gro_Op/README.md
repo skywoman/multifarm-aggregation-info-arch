@@ -31,3 +31,4 @@ __Interviewees__
 ## Materials
 - [Video Recording](https://www.youtube.com/watch?v=HhM6C0fmjfo) (Link to YouTube)
 - [Video Transcript](transcript.html) (Raw HTML)
+- [Chat History](chat.html) (Raw HTML)
