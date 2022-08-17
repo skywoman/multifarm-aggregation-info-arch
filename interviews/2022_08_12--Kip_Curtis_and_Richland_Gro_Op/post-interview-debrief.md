@@ -9,10 +9,10 @@ __Facilitators__
 
 ## Agenda
 - Review, clean up and upload interview materials
-  - Miro board
-  - video recording (via YouTube)
-  - Kip's [aggregation diagram](https://canada1.discourse-cdn.com/free1/uploads/farm_os/original/1X/3f105ee1b86a3ae7d49f870b1f23ef2f5ce3356f.png)
-  - List everything in [README#Materials](README.md#materials)
+  - Export Miro board as PDF(s)
+  - Add chapters to video recording on YouTube
+  - Transform raw HTML files
+  - Update index in [README#Materials](README.md#materials)
 - Next steps with RGO
   - Schedule a follow up with Jess Hudson?
   - What kinds of interventions could assist Jess in the auditing process?
