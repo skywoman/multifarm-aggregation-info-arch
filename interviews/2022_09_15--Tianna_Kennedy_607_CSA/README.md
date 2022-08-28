@@ -21,5 +21,6 @@ __Interviewees__
 - ...
 
 ## Materials
-- 
+- [Prep Session Agenda & Notes](pre-interview-prep-session.md)
+- [Collab Farming Podcast w/ Tianna Kennedy (Jun 30, 2022)](https://collaborativefarming.libsyn.com/website/building-a-relationship-based-model-tianna-kennedy-of-607-csa) by Jackson Rolett
 - ...
