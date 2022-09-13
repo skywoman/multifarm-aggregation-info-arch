@@ -12,9 +12,36 @@ __Interviewees__
 - Tianna Kennedy, owner/operator of 607 CSA and co-owner of Star Route Farm
 
 ## Agenda
-- Introductions (5 min)
-- ...
+- Welcome & Introductions (10 min)
+- Question Areas (45 min)
+  - Current Toolchain (5 min)
+  - Ecosystem & Value Exchange (15 min)
+  - Decision Making, Tracking & Reporting (15 min)
+  - Growth & Marketing (10 min)
 - Conclusions & Action Items (5 min)
+
+## Question Areas
+### Current Toolchain
+- What software tools or systems are you currently using for...
+  - Retail/wholesale purchasing
+  - Inventory & catalog management
+  - Order fulfillment
+  - Internal/external communications
+  - Other tasks?
+
+### Ecosystem & Value Exchange
+- Who are the main players (eg, farmers, drivers, shoppers, volunteers, NGO's, etc)?
+- What value propositions, trade-offs or efficiencies does 607 CSA offer each of these main players?
+
+### Decision Making, Tracking & Reporting
+- How do you come to agreements on the amount and price of each farmer's CSA contribution? How much is determined in advance? How much after-the-fact?
+- What other factors (eg, truck routing, budget, product balance, etc) involve collective decision making?
+- What numbers or answers are you most frequently trying to track down? which ones are the most important? and which are hardest to know precisely?
+
+### Growth & Marketing
+- How do the main players find you? or do you find them?
+- Are there facets of the business you hope to grow? shrink? replicate? replace?
+
 
 ## Action Items
 - 
