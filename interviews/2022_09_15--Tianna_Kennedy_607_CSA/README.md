@@ -21,6 +21,8 @@ __Interviewees__
 - Conclusions & Action Items (5 min)
 
 ## Question Areas
+These questions can serve as a guide for the interview, but do not need to be strictly adhered to.
+
 ### Current Toolchain
 - What software tools or systems are you currently using for...
   - Retail/wholesale purchasing
