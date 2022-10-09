@@ -20,6 +20,11 @@ __Interviewees__
   - Growth & Marketing (10 min)
 - Conclusions & Action Items (5 min)
 
+## Action Items (or Open-ended Questions)
+- How to replicate this model?
+- How to keep doing it?
+- __How to find the money???__
+
 ## Question Areas
 These questions can serve as a guide for the interview, but do not need to be strictly adhered to.
 
@@ -45,11 +50,14 @@ These questions can serve as a guide for the interview, but do not need to be st
 - Are there facets of the business you hope to grow? shrink? replicate? replace?
 
 
-## Action Items
-- 
-- ...
+## Stray thoughts (Jamie's)
+- Shared Spreadsheets
+  - seems like there are a lot
+  - how are permissions and sharing managed for this kind of setup?
+  - is it working?
+- Farm Stand, chefs doing alternatives to benefit dinners (this sounds cool)
+- shipping manifests?
 
 ## Materials
 - [Prep Session Agenda & Notes](pre-interview-prep-session.md)
 - [Collab Farming Podcast w/ Tianna Kennedy (Jun 30, 2022)](https://collaborativefarming.libsyn.com/website/building-a-relationship-based-model-tianna-kennedy-of-607-csa) by Jackson Rolett
-- ...
