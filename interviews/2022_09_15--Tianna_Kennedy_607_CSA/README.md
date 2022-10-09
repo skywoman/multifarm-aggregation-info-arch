@@ -59,5 +59,8 @@ These questions can serve as a guide for the interview, but do not need to be st
 - shipping manifests?
 
 ## Materials
+- [Video Recording (YouTube)](https://youtu.be/Lm6eFME6OpY) (Link to YouTube)
+- [Video Chat History](chat.html) (Raw HTML)
+- [Miro Board](https://miro.com/app/board/uXjVPYGRGNg=/?share_link_id=670260311925) by Nate Chang
 - [Prep Session Agenda & Notes](pre-interview-prep-session.md)
 - [Collab Farming Podcast w/ Tianna Kennedy (Jun 30, 2022)](https://collaborativefarming.libsyn.com/website/building-a-relationship-based-model-tianna-kennedy-of-607-csa) by Jackson Rolett
